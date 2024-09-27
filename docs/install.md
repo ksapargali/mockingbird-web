@@ -59,7 +59,7 @@ git clone https://github.com/element-hq/element-web.git element-web
 cd element-web
 git checkout master
 docker build .
-```
+``` 
 
 If you're building a custom branch, or want to use the develop branch, check out the appropriate
 element-web branch and then run:
